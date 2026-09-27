@@ -53,7 +53,7 @@ The Senyu Health Town page will present the Health Town as evidence of the compa
 It will include:
 
 - Approximately 4.06 square kilometers of total area
-- Approximately RMB 5 billion in investment
+- Approximately RMB 5.18 billion in investment
 - Medical care
 - Education
 - Real estate
@@ -152,7 +152,7 @@ The page will include:
 
 ## Senyu Health Town Page Layout
 
-The Senyu Health Town page will begin with a large landscape image and a short statement about its approximately 4.06-square-kilometer scale and approximately RMB 5 billion investment.
+The Senyu Health Town page will begin with a large landscape image and a short statement about its approximately 4.06-square-kilometer scale and approximately RMB 5.18 billion investment.
 
 The page will include:
 

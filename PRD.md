@@ -97,7 +97,7 @@ Shared nav bar, in this order:
 
 **Goal:** Demonstrate scale and long-term vision.
 
-- Hero: large landscape image (placeholder), stat callout — ~4.06 km² total area, ~RMB 5 billion investment.
+- Hero: large landscape image (placeholder), stat callout — ~4.06 km² total area, ~RMB 5.18 billion investment.
 - Page title + introduction.
 - Key facts section.
 - Grid of industries: medical care, education, real estate, agriculture, tourism, antioxidant-related industries.
@@ -111,7 +111,7 @@ Shared nav bar, in this order:
 
 - Heading for international partnership inquiries.
 - Short invitation copy.
-- Partnership email: **placeholder** (e.g., `partnership@senyu-example.com`) until client confirms official address — flagged as a pre-launch blocker.
+- Partnership email: confirmed as `sstpfd@163.com`.
 - Optional: phone number, address, contact person (pending, not required for v1).
 - Shared footer.
 
@@ -123,7 +123,7 @@ Shared nav bar, in this order:
 | Brand colors (final hex)                                             | **Pending** — using logo-derived placeholder palette                     |
 | Logo                                                                 | Available (`logo_photo/Senshan Logo.jpg`); more photos to follow         |
 | Product / company / Health Town images                               | **Pending** — placeholders in v1, client to supply/approve incrementally |
-| Official partnership email                                           | **Pending** — placeholder in v1                                          |
+| Official partnership email                                           | Confirmed: `sstpfd@163.com`                                              |
 | Layout sketch (`layout-sketch.jpg`)                                  | **Pending** — required before page code is written                       |
 | Final English copy review                                            | Pending                                                                  |
 
@@ -139,10 +139,9 @@ Shared nav bar, in this order:
 ## 11. Open Items / Blockers Before Launch
 
 1. Layout sketch (`layout-sketch.jpg`) must be created and committed before implementation.
-2. Confirm official partnership email address.
-3. Receive and approve final product/company/Health Town images.
-4. Confirm final brand hex codes (or approve logo-derived placeholder palette as final).
-5. Final legal/factual review of English copy (avoid unverified claims).
+2. Receive and approve final product/company/Health Town images.
+3. Confirm final brand hex codes (or approve logo-derived placeholder palette as final).
+4. Final legal/factual review of English copy (avoid unverified claims).
 
 ## 12. AI Build Prompt (reference)
 
