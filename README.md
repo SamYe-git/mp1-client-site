@@ -22,6 +22,9 @@ This website introduces Senyu Holding Group to potential international business 
 [View the live site](https://samye-git.github.io/mp1-client-site/)
 
 ## AI Use and Verification
+The AI initially created a generic dark-green hero section for the Home page. I changed it to use an approved aerial image of the client’s Lishui base and updated the headline to “Rooted in Nature. Built for the World.” I made this change because it better represents the company’s natural origin and international brand direction. 
+
+### Home Page Hero Revision
 
 ### Responsive Navigation Review
 
