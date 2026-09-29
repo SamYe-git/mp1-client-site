@@ -62,7 +62,7 @@ a {
 }
 
 .site-logo img {
-  height: 48px;
+  height: 64px;
   width: auto;
 }
 
@@ -378,6 +378,10 @@ section.alt {
 /* Responsive */
 
 @media (max-width: 768px) {
+  .site-logo img {
+    height: 48px;
+  }
+
   .nav-toggle {
     display: block;
   }
