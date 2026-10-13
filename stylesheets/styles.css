@@ -133,6 +133,49 @@ a {
   margin: 0 0 var(--spacing-md);
 }
 
+/* Home hero: full-screen misty mountain with gentle parallax */
+
+.hero--home {
+  min-height: 100vh;
+  min-height: 100svh;
+  overflow: hidden;
+  color: var(--color-primary-dark);
+  background-color: var(--color-bg-alt);
+}
+
+.hero--home .hero-media {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -20%;
+  bottom: 0;
+  z-index: 0;
+  background-size: cover;
+  background-position: 35% center;
+  transform: translate3d(0, var(--hero-shift, 0px), 0);
+  will-change: transform;
+}
+
+.hero--home::before {
+  z-index: 1;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.55) 0%, rgba(255, 255, 255, 0.25) 45%, rgba(255, 255, 255, 0) 70%);
+}
+
+.hero--home .hero-content {
+  z-index: 2;
+}
+
+.hero--home .btn {
+  background-color: var(--color-primary-dark);
+  color: var(--color-text-light);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero--home .hero-media {
+    transform: none;
+  }
+}
+
 /* Buttons */
 
 .btn {
@@ -411,5 +454,17 @@ section.alt {
 
   .two-col {
     grid-template-columns: 1fr;
+  }
+
+  .hero--home {
+    align-items: flex-start;
+  }
+
+  .hero--home .hero-media {
+    background-position: 75% center;
+  }
+
+  .hero--home::before {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.6) 60%, rgba(255, 255, 255, 0) 85%);
   }
 }

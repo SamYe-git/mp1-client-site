@@ -146,3 +146,17 @@ Shared nav bar, in this order:
 ## 12. AI Build Prompt (reference)
 
 > Build an English-language, four-page corporate introduction website for Senyu Holding Group. The primary audience is potential international business partners. The visual direction is natural, premium, and technology-driven, using the group's established brand colors and approved images. Create the pages Home, Health Products, Senyu Health Town, and Contact / Partnership. Use concise, factual copy and make the main action on every page clear: contact the company by email for partnership inquiries. Do not make unverified medical claims. The website must be responsive, use semantic HTML, a shared navigation bar, and one external stylesheet. Use real content and images supplied from the existing public company website or approved by the client.
+
+## 13. Client Feedback Priorities (v2)
+
+Client feedback received 2026-10-10 (source: `root/feedback.md`). Features not yet built, in the order the client ranked them:
+
+1. **Interactive Health Town map** — Senyu Health Town map with clickable icons identifying each functional area (e.g., school, shopping mall, hospital, real estate).
+2. **Full-page hero background** — Replace the Home hero with an approved Senshan Health Town image in the misty scenic style; extend it across the site with a green tone instead of plain white.
+3. **Additional content** — Populate the existing page structure with content from the existing public company website, including a company history timeline (1998–present) and a leadership introduction (CEO, Chairman, etc.).
+
+
+## Later
+1. **Interactive Health Town map** — Add clickable icons to the approved masterplan after the client confirms the locations of the school, hospital, shopping mall, and real-estate areas.
+2. **Full-page hero background** — Replace the Home hero with the approved Senshan Health Town image and extend the green scenic visual style across the site.
+3. **Additional content** — Add approved public-company website content, including the 1998–present history timeline and leadership introduction.
